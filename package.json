@@ -1,0 +1,14 @@
+{
+    "name": "ultimate_blockchain_crash_course",
+    "version": "1.0.0",
+    "description": "A simple blockchain implementation",
+    "main": "Blockchain.js",
+    "scripts": {
+      "start": "node Blockchain.js"
+    },
+    "dependencies": {
+      "crypto": "^1.0.1"
+    },
+    "author": "",
+    "license": "ISC"
+  }
